@@ -14,12 +14,25 @@ Whether it’s debugging code or building something new from scratch, I like thi
 
 ## 🔧 Tech Stack
 
-- **Languages**: Java, Python, JavaScript, SQL  
-- **Backend**: MySQL, REST APIs  
-- **Security & Infra**: Linux, Wireshark, basic networking  
-- **Dev Tools**: Git, Bash, VS Code, 
-- **Learning**: AWS, threat detection systems
+### 🧑‍💻 Languages  
+Java · Python · PHP · C · Clojure · HTML · CSS · SQL (MySQL) · Assembly (basic)
 
+### 🔐 Security & Networking  
+Secure coding practices · CompTIA Security+ (knowledge) · Wireshark · TCP/IP · DNS · IP addressing  
+Subnetting · SSH · Linux CLI · Log inspection
+
+### ⚙️ Frameworks & Tools  
+Git · Eclipse · IntelliJ · Visual Studio Code · CLion · Android SDK  
+PuTTY · Cyberduck · SSH
+
+### 📊 Data & Visualization  
+Power BI · Excel · MySQL · Jupyter Notebooks · Markdown
+
+### 🎨 Design & Communication  
+Figma · Canva · Microsoft Office 365
+
+### 🌍 Languages Spoken  
+English · Hindi · Urdu · Arabic · Korean (basic)
 ---
 
 ## 🚀 Current Focus
