@@ -48,6 +48,6 @@ English · Hindi · Urdu · Arabic · Korean (basic)
 
 - [LinkedIn](https://www.linkedin.com/in/rehabshakir)  
 - [GitHub](https://github.com/RehabShk)
-- [Resume] 
+- [Resume](https://rehabshk.github.io/resume/Resume_RehabShakir.pdf)
 - Email: rehabshakir@gmail.com  
 
