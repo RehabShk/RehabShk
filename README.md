@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rehab Shakir 👋</h1>
-<p align="center"><em>Computer Science Grad · Backend Curious · Security in Progress · Data Analyzer</em></p>
+<p align="center"><em>Computer Science Graduate | Backend Development | Cybersecurity | Data Analysis</em></p>
 
 ---
 
